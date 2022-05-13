@@ -1,11 +1,3 @@
-# -*-coding: utf-8 -*-
-"""
-    @Project: IntelligentManufacture
-    @File   : user_interaction.py
-    @Author : panjq
-    @E-mail : pan_jinquan@163.com
-    @Date   : 2019-02-21 15:03:18
-"""
 # -*- coding: utf-8 -*-
 import cv2
 import os
